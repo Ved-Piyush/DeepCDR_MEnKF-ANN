@@ -11,3 +11,13 @@ Scenario II results can be obtained using the following three scripts:
 * [Phase I](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_first_three.ipynb)
 * [Phase II](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_second_three.ipynb)
 * [Phase III](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_last_three.ipynb)
+
+Scenario I results can be obtained using the following seven scripts: 
+
+* [Drug Features and Gene Mutation Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_mutation/Real_World_EnKF_Old_Strategy_DeepCDR_var_1_size_ens_801.ipynb)
+* [Drug Features and Gene Expression Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_expression/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_534.ipynb)
+* [Drug Features and DNA Methylation Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_methyl/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_534.ipynb)
+* [Drug Features and (Gene Mutation, DNA Methylation) Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_mutation_methyl/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801.ipynb)
+* [Drug Features and (Gene Expression, DNA Methylation) Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_expression_methyl/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_534.ipynb)
+* [Drug Features and (Gene Expression, Gene Mutation) Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_mutation_expression/Real_World_EnKF_Old_Strategy_DeepCDR_var_1_size_ens_801.ipynb)
+* [Drug Features and (Gene Expression, Gene Mutation, DNA Methylation) Features](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801.ipynb)
