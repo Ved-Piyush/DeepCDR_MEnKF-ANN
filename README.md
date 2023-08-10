@@ -26,3 +26,11 @@ The cross validated metrics for MEnKF-ANN on all multi-omics features and all mu
 
 * [All Drugs Features and All Multi-Omics Features except Gene Expression](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_ALL_10_with_PCA_proper_CV_no_validation.ipynb)
 * [All Drugs Features and All Multi-Omics](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_ALL_10_proper_CV_no_validation_all_features.ipynb)
+
+## Figures
+
+The various figures in the manuscript can be obtained using the scripts below: 
+
+* Figure showing the MEnKF-ANN prediction boxplots with the observed value [MEnKF-ANN Prediction Boxplots](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/Boxplot_DeepCDR.ipynb)
+* Figure showing the scatterplot of the MEnKF-ANN average prediction with the observed value [MEnKF-ANN Prediction Scatterplots](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_ALL_10_with_PCA_proper_CV_no_validation.ipynb)
+* Figure showing the trajectory of the Train RMSE with the update iterations for different ensemble sizes [MEnKF-ANN Train RMSE Trajectory with different ensemble sizes](https://github.com/Ved-Piyush/DeepCDR_MEnKF-ANN/blob/main/DeepCDR_MEnKF-ANN/DeepCDR_MEnKF-ANN_all_drugs_all_omics/Real_World_EnKF_Old_Strategy_DeepCDR_var_0.5_size_ens_801_ALL_10_proper_CV_no_validation_all_features_diff_size_ens.ipynb)
