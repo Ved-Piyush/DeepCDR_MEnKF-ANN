@@ -1,0 +1,10 @@
+index,0
+train_mae,1.817166243819121
+test_mae,1.9076301496749088
+train_coverage,0.818
+train_width,5.0259263097617275
+test_coverage,0.788
+test_width,5.770871171102788
+drugs_weight,0.43493500236304516
+exit_iter,2.4
+time_taken,4.473333333333334
