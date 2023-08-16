@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Ignore all npy files and data added readme, less size
 *.pickle
+=======
+# Ignore all npy files and data added readme, less size
+>>>>>>> d24d8ba8b1f9e8ade68eb27df1ef69779dc15eaa
